@@ -1,0 +1,32 @@
+body {
+    border: 10px solid rgb(207, 207, 207);
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 10px white;
+    border-style:double;
+    width: 60vh;
+    height: 40vh;
+    background-color: maroon;
+    color:aliceblue;
+}
+
+p {
+    color:whitesmoke;
+}
